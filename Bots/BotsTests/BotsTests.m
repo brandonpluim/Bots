@@ -31,4 +31,9 @@
     XCTAssert(YES, @"It should work");
 }
 
+- (void)testFail
+{
+    XCTFail(@"What went wrong?");
+}
+
 @end

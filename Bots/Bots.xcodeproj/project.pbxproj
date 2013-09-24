@@ -461,6 +461,7 @@
 				BDFDB43B17F1D9A20065B72D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BDFDB43C17F1D9A20065B72D /* Build configuration list for PBXNativeTarget "BotsTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				BDFDB43E17F1D9A20065B72D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
