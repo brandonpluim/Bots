@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D8407639-9D49-48C8-9C33-D0CA624005FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bots</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B44AEE3C-63C1-4DAD-A1B8-C3A6477E95AB</key>
+		<string>https://github.com/elgreco84/Bots.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bots/Bots.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B44AEE3C-63C1-4DAD-A1B8-C3A6477E95AB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/elgreco84/Bots.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B44AEE3C-63C1-4DAD-A1B8-C3A6477E95AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B44AEE3C-63C1-4DAD-A1B8-C3A6477E95AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bots</string>
+		</dict>
+	</array>
+</dict>
+</plist>
